@@ -1,6 +1,3 @@
-h1   {
-	font-family: "Cascadia Code";
-}
 
 body {
 	background-color: #F5E0DC;
@@ -9,12 +6,27 @@ body {
 
 .list {
 	font-family: "Cascadia-Code";
+	padding-left: 20%;
 }
 
-.home {
-	position: relative; 
-	left: 300px;
-	top: 100px;
+.site-title {
+	font-family: "Cascadia Code";
+	font-weight: bold;
+	font-size: 50pt;
+	padding-top: 10%;
+	padding-left: 20%;
+}
+
+.title {
+	font-family: "Cascadia Code";
+	font-weight: bold;
+	font-size: 30pt;
+	padding-top: 10%;
+	padding-left:20%;
+}
+
+img {
+	padding-left: 20%;
 }
 @font-face {
     font-family: 'Cascadia-Code'; /*a name to be used later*/
