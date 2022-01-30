@@ -1,3 +1,21 @@
-h1 {
-	color:green
+h1   {
+	margin-left: 20%;
+	margin-top: 20%;
+	font-family: "Cascadia Code";
+}
+
+body {
+	background-color: #F5E0DC;
+
+}
+
+.list {
+	margin-left: 20%;
+	margin-top: 0%;
+	font-family: "Cascadia-Code";
+}
+
+@font-face {
+    font-family: 'Cascadia-Code'; /*a name to be used later*/
+    src: url(ttf/CascadiaCode.ttf); /*URL to font*/
 }
