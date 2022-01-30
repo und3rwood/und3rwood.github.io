@@ -1,6 +1,4 @@
 h1   {
-	margin-left: 20%;
-	margin-top: 20%;
 	font-family: "Cascadia Code";
 }
 
@@ -10,11 +8,14 @@ body {
 }
 
 .list {
-	margin-left: 20%;
-	margin-top: 0%;
 	font-family: "Cascadia-Code";
 }
 
+.home {
+	position: relative; 
+	left: 300px;
+	top: 100px;
+}
 @font-face {
     font-family: 'Cascadia-Code'; /*a name to be used later*/
     src: url(ttf/CascadiaCode.ttf); /*URL to font*/
